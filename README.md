@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 [![gipo-ski GitHub stats](https://github-readme-stats.vercel.app/api?username=gipo-ski)](https://github.com/gipo-ski/github-readme-stats)
+-->
