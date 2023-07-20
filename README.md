@@ -3,7 +3,7 @@
 [![gipo-ski GitHub stats](https://github-readme-stats.vercel.app/api?username=gipo-ski)](https://github.com/gipo-ski/github-readme-stats)
 I'm curently working on...
 -->
-https://www.codewars.com/users/gipo-ski
+[!(https://www.codewars.com/users/gipo-ski)
 
 
 
