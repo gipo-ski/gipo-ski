@@ -8,7 +8,7 @@ I studied Mechanical Engineering
 
 - 🌍  I'm based in the UK
 - ✉️  You can contact me at [koladiji@gmail.com](mailto:koladiji@gmail.com)<!-- (mailto:evieacodes@gmail.com) -->
-- 🧠  I'm deepening my knowledge in javaScript
+- 🧠  I'm deepening my knowledge in Next.js
 <!-- * 🤝  I'm open to collaborating on User-Centred Projects -->
 
 <!-- <a href="https://www.twitter.com/nerdinpink" target="_blank" rel="noreferrer"><img
